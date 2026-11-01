@@ -67,10 +67,10 @@ npm start
 
 | No | Nama | NIM | Peran |
 |----|------|-----|-------|
-| 1 | Anggota 1 (isi nama) | (isi NIM) | Ketua, Backend |
-| 2 | Anggota 2 (isi nama) | (isi NIM) | Frontend |
-| 3 | Anggota 3 (isi nama) | (isi NIM) | Dokumentasi dan Pengujian |
+| 1 | SYEIKH KAFILA SANTERY | 42310009 | 
+| 2 | CHRISTIAN PAULINUS RIANDO | 42210027 | 
+| 3 | NABILA LUTHFIYAH RAZZAQ | 2024103012 | 
 
 ## Lisensi
 
-Proyek untuk keperluan tugas perkuliahan Sistem Informasi.
+Proyek untuk keperluan tugas perkuliahan RPL.
