@@ -16,15 +16,8 @@
 - Kolom pencarian untuk menyaring pesan di room aktif berdasarkan kata kunci.
 - Kriteria selesai: hasil pencarian hanya menampilkan pesan yang mengandung kata kunci.
 
-## 2. Pembagian Tugas Anggota
 
-| Anggota | Peran | Tanggung jawab | Cabang |
-|---------|-------|----------------|--------|
-| Anggota 1 | Backend | Server Socket.IO, manajemen room, logika pencarian | `feature/chat-room`, `feature/pencarian` |
-| Anggota 2 | Frontend | Antarmuka obrolan, form profil, kolom pencarian | `feature/profil` |
-| Anggota 3 | Dokumentasi dan Pengujian | README, dokumen rencana, pengujian manual dan otomatis, review merge | `docs/*`, `tests/*` |
-
-## 3. Jadwal Singkat
+## 2. Jadwal Singkat
 
 | Minggu | Target |
 |--------|--------|
